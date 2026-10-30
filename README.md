@@ -16,7 +16,7 @@
 2. 到 repository 的「Settings」→「Pages」，將來源設為 `Deploy from a branch`、分支設為 `main`、資料夾設為 `/(root)`，再儲存。
 3. Pages 部署完成後，將網站網址補在下方。
 
-網站網址：待部署
+網站網址：https://wangchunyen.github.io/2026-company-trip/
 
 ## 報名欄位
 
