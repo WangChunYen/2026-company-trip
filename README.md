@@ -14,7 +14,7 @@
 
 1. 將本專案推送到 GitHub repository `2026-company-trip`；不要加入 `spec/`。GitHub repository 名稱只接受英數字、句點、連字號及底線，因此使用英文名稱；Google 試算表仍命名為 `2026_公司旅遊`。
 2. 到 repository 的「Settings」→「Pages」，將來源設為 `Deploy from a branch`、分支設為 `main`、資料夾設為 `/(root)`，再儲存。
-3. Pages 部署完成後，將網站網址補在下方。
+3. Pages 部署完成後，使用下方網址開啟網站。
 
 網站網址：https://wangchunyen.github.io/2026-company-trip/
 
